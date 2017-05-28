@@ -1,0 +1,7 @@
+DIRS=       \
+    cdfs    \
+    fastfat \
+    ntfs    \
+    mailslot
+    
+OPTIONAL_DIRS=udfs
