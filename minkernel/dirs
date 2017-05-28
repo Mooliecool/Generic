@@ -4,6 +4,7 @@ DIRS= \
     hals        \
     ntos        \
     ntdll       \
+    boot        \
     urtl        \
     subsys
 
