@@ -21,9 +21,12 @@ inetsrv         cd /d %NTROOT%\inetsrv
 mergedcomp      cd /d %NTROOT%\mergedcomponents
 
 minkernel       cd /d %NTROOT%\minkernel
+boot            cd /d %NTROOT%\minkernel\boot
 crts            cd /d %NTROOT%\minkernel\crts
+fs              cd /d %NTROOT%\minkernel\fs
 hals            cd /d %NTROOT%\minkernel\hals
 ntos            cd /d %NTROOT%\minkernel\ntos
+ntdll           cd /d %NTROOT%\minkernel\ntdll
 subsys          cd /d %NTROOT%\minkernel\subsys
 
 multimedia      cd /d %NTROOT%\multimedia
